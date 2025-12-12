@@ -1,3 +1,7 @@
 # Introduction
 
-Ceci est une documentation simple. Vous devez compléter ce fichier dans un ticket.
+Vous avez une très belle ceinture LV
+
+git c'est pour le code
+git c'est pour les dev
+git c'est cool quoi
